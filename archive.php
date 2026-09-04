@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Generic Archive template for Style With Charm theme
  *
