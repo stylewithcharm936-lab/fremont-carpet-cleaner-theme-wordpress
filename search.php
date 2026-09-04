@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Search results template for Style With Charm theme
  *
