@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Style With Charm functions and definitions
  *
