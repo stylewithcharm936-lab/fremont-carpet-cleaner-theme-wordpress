@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Header template for Style With Charm theme
  *
