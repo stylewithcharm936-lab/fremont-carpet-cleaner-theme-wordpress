@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Front Page template for Style With Charm theme
  *
