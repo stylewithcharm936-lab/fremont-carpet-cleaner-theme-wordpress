@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Footer template for Style With Charm theme
  *
