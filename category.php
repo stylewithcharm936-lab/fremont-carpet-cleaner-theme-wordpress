@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Category Archive template for Style With Charm theme
  *
